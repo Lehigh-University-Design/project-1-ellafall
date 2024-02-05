@@ -20,7 +20,7 @@ var currentIndex = 0;
 
 window.onload = function getCurrentIndex() {
     var path = window.location.href; 
-    currentIndex = websites.index0f(path;)
+    currentIndex = websites.index0f(path);
 
 }
 
