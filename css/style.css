@@ -14,9 +14,7 @@ p,a
     font-size: 20px;
     padding: 10px;
     text-align: center;
-
 }
-
 
 .header {
     font-style: bold;
@@ -25,7 +23,7 @@ p,a
     color: white;
     font-weight: 50 px;
   }
-  
+
   h1,h2,h3,h4,h5,h6 {
     font-size: 30px;
     color: white;
@@ -44,12 +42,4 @@ p,a
         margin-right: auto;
     }
 
-}
-
-.highlight {
-    background-color: white;
-    color: beige;
-    h2{
-        color: bisque;
-    }
 }
